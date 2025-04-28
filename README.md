@@ -1,20 +1,19 @@
-# Flycse Project
+# flycse Project
 
-Flycse is a transportation information platform that provides users with real-time data, offering an intuitive interface powered by modern web and mobile technologies.
+flycse is a transportation information platform that provides users with real-time data, offering an intuitive interface powered by modern web and mobile technologies.
 
-This project is developed as part of the MEG310 course at Acibadem University. Below you'll find key information about the project and its development.
+This project is developed as part of the MEG310 course. Below you'll find key information about the project and its development.
 
 ## Project Details
 
-- **Project Name:** Flycse
-- **Course:** [Insert Course Name]
+- **Project Name:** flycse
+- **Course:** MEG310
 - **Instructor:** [Instructor Name]
-- **Semester:** [Spring/Fall Year]
-- **Student Number(s):** [Student Number(s) or Group Number]
+- **Semester:** Spring25
 - **Group Members:** 
-    - Efecan Arat (Student Number: 210402018)
-    - Doğukan Gökduman (Student Number: 210402002)
-    - Bahadır Kümüş (Student Number: 210402005)
+    - Efecan Arat
+    - Doğukan Gökduman
+    - Bahadır Kümüş
 
 ## Project Objective
 
@@ -28,8 +27,8 @@ Flycse aims to provide a user-friendly platform for real-time transportation dat
 - **Backend:** Node.js, Express
 - **Frontend:** React.js, HTML5, CSS3
 - **Database:** PostgreSQL
-- **Mobile Application:** React Native
-- **APIs:** IETT, IBB
+- **Mobile Application:** Flutter
+- **APIs:** SOAP
 
 ## Setup and Installation
 
@@ -55,10 +54,10 @@ To run this project locally, follow these steps:
     npm start
     ```
 
-5. **For mobile app (React Native):**
-    Follow the [React Native setup instructions](https://reactnative.dev/docs/environment-setup) for your platform and run:
+5. **For mobile app (Flutter):**
+    Follow the [Flutter setup instructions](https://docs.flutter.dev/get-started/install) for your platform and run:
     ```bash
-    npx react-native run-android
+    flutter run
     ```
 
 ## Documentation
@@ -82,7 +81,6 @@ This project is licensed under the MIT License – see the [LICENSE](LICENSE) fi
 ## Acknowledgements
 
 - Special thanks to Mert Nuhoglu for guidance.
-- Thanks to IETT and IBB for their valuable transportation data.
 
 ---
 
