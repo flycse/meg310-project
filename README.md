@@ -8,7 +8,6 @@ This project is developed as part of the MEG310 course. Below you'll find key in
 
 - **Project Name:** flycse
 - **Course:** MEG310
-- **Instructor:** [Instructor Name]
 - **Semester:** Spring25
 - **Group Members:** 
     - Efecan Arat
@@ -25,7 +24,7 @@ Flycse aims to provide a user-friendly platform for real-time transportation dat
 ## Technologies Used
 
 - **Backend:** Node.js, Express
-- **Frontend:** React.js, HTML5, CSS3
+- **Frontend:** HTML5, CSS3
 - **Database:** PostgreSQL
 - **Mobile Application:** Flutter
 - **APIs:** SOAP
@@ -67,16 +66,6 @@ The project documentation is split across multiple files, including:
 - **[Project Plans](./plans/README.md)** – Detailed planning documents for project scope, timeline, and tasks.
 - **[API Documentation](./docs/api.md)** – Details of the APIs used within the project.
 - **[User Guide](./docs/user_guide.md)** – Instructions for end-users to navigate and use the platform.
-
-## Contributing
-
-We welcome contributions! If you would like to contribute to the project, please fork the repository, create a feature branch, and submit a pull request.
-
-## License
-
-This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
-
----
 
 ## Acknowledgements
 
