@@ -71,5 +71,3 @@ The project documentation is split across multiple files, including:
 
 - Special thanks to Mert Nuhoglu for guidance.
 
----
-
